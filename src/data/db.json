@@ -5,9 +5,9 @@
       "name": "Ramesh Kumar",
       "email": "ramesh@in.com",
       "phone": "899089898",
-      "address": "No 2\nRamraj street, chennai\nIndai",
-      "type": "CUSTOMER",
       "associategroup": "level1",
+      "address": "No 2\nRamraj street, chennai\nIndai",
+      "type": "SUPPLIER",
       "status": true
     },
     {
